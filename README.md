@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
+
+<h2 align='center'> Hey there! 👋 I am David T.F!</h2>
+
 <div  name='h_gif' id='header' align='center'>
   <img src='redcat.gif'>
 </div>
@@ -30,11 +32,18 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-<hr>
+<h2></h2>
 
 <div name='gif' align='center'>
   <img src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif' style='margin-bottom:100px'>
 </div>
 
-<hr>
+<h2></h2>
 
+### 🧑‍💻 About Me :
+I am a Brazilian back-end developer.
+- :telescope: I’m studying software development
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
