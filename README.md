@@ -23,6 +23,6 @@ Here are some ideas to get you started:
     <img src='instagramtxt.png' style='width:200px'>
   </div>
   <div name='linkedin'>
-    <img src=''>
+    <img src='linkedin_icon.png' style='width:80px'>
   </div>
 </div>
