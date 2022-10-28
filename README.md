@@ -42,8 +42,30 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 About Me :
 I am a Brazilian back-end developer.
-- :telescope: I’m studying software development
+- 📖 I’m studying software development in Cotil-Unicamp.
 
-- :seedling: Exploring Technical Content Writing.
+- 🏫 I’m in Twelfth grade.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time, I study new languages and pratice my programing habilities.
+
+<h2></h2>
+
+### 🛠️ Languages and Tools :
+
+<div name='language_icons'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg' style='width:80px'>
+  <br>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' style='width:80px'>
+</div>
