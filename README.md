@@ -68,4 +68,5 @@ I am a Brazilian back-end developer.
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg' style='width:80px'>
 </div>
