@@ -20,13 +20,13 @@ Here are some ideas to get you started:
   <img src='redcat.gif'>
 </div>
 
-<div name='social_medias' align='center'>
-    <a href='https://www.instagram.com/davidteixeira.f?r=nametag'>
+<div id='badges' align='center'>
+    <a href='https://www.instagram.com/davidteixeira.f?r=nametag' target="_blank">
       <img src='instagram_icon.png' style='width:40px'>
       <img src='instagramtxt.png' style='width:100px'>
     </a>
     <a>ㅤㅤㅤㅤ</a>
-    <a href='https://www.linkedin.com/in/david-teixeira-ferraz-45a974253/'>
+    <a href='https://www.linkedin.com/in/david-teixeira-ferraz-45a974253/' target="_blank">
       <img src='linkedin_icon.png' style='width:40px'>
       <img src='linkedintxt.png' style='width:100px'>
     </a>
