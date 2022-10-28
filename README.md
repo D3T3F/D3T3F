@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <div name='icons'>
-  <div id='instagram'>Instagram</div>
+  <div name='instagram'>
+    <img src=''>
+    <img src='instagramtxt.png' style='width:200px'></div>
 </div>
