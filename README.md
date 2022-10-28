@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div  name='h_gif' id='header' align='center'>
-  <img src='https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif'>
+  <img src='redcat.gif'>
 </div>
 
 <div name='social_medias' align='center'>
