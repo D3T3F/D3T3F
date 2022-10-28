@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
 <div  name='h_gif' id='header' align='center'>
   <img src='redcat.gif'>
 </div>
 
 <div name='social_medias' align='center'>
-    <a href=''>
+    <a href='https://www.instagram.com/davidteixeira.f?r=nametag'>
       <img src='instagram_icon.png' style='width:40px'>
       <img src='instagramtxt.png' style='width:100px'>
     </a>
@@ -35,4 +36,5 @@ Here are some ideas to get you started:
   <img src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif' style='margin-bottom:100px'>
 </div>
 
+<hr>
 
