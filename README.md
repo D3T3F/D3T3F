@@ -17,8 +17,12 @@ Here are some ideas to get you started:
   <img src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif'>
 </div>
 
-<div name='icons'>
+<div name='social_medias'>
   <div name='instagram'>
-    <img src='instagram_img'>
-    <img src='instagramtxt.png' style='width:200px'></div>
+    <img src='instagram_icon.png' style='width:80px'>
+    <img src='instagramtxt.png' style='width:200px'>
+  </div>
+  <div name='linkedin'>
+    <img src=''>
+  </div>
 </div>
