@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 </div>
 
 <div name='social_medias' align='center'>
-    <img src='instagram_icon.png' style='width:40px'>
-    <img src='instagramtxt.png' style='width:100px'>
+    <a href=''>
+      <img src='instagram_icon.png' style='width:40px'>
+      <img src='instagramtxt.png' style='width:100px'>
+    </a>
     <a>ㅤㅤㅤㅤ</a>
-    <img src='linkedin_icon.png' style='width:40px'>
-    <img src='linkedintxt.png' style='width:100px'>
+    <a href='https://www.linkedin.com/in/david-teixeira-ferraz-45a974253/'>
+      <img src='linkedin_icon.png' style='width:40px'>
+      <img src='linkedintxt.png' style='width:100px'>
+    </a>
 </div>
 
 <hr>
