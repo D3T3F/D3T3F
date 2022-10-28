@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **D3T3F/D3T3F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div name='h_gif' id='header' align='center'>
+  <img src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif'>
+</div>
+
+<div name='icons'>
+  <div id='instagram'>Instagram</div>
+</div>
