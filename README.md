@@ -64,7 +64,6 @@ I am a Brazilian back-end developer.
   <br>
   <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' style='width:80px'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' style='width:80px'>
