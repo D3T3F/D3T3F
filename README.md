@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 
 <h2 align='center'> Hey there! 👋 I am David T.F!</h2>
 
-<div  name='h_gif' id='header' align='center'>
-  <img src='redcat.gif'>
-</div>
-
 <div id='badges' align='center'>
     <a href='https://www.instagram.com/davidteixeira.f?r=nametag' target="_blank">
       <img src='instagram_icon.png' style='width:40px'>
