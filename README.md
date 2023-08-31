@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 About Me :
 I am a Brazilian back-end developer.
-- 📖 I’m studying software development in Cotil-Unicamp.
+- 📖 I studyed software development in Cotil-Unicamp.
 
-- 🏫 I’m in Twelfth grade.
+- 🏫 I’m studying computer science in EEP-Fumep.
 
 - ⚡ In my free time, I study new languages and pratice my programing habilities.
 
